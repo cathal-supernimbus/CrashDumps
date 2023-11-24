@@ -322,7 +322,7 @@ GameObject:
   - component: {fileID: 1074757451}
   - component: {fileID: 1074757452}
   m_Layer: 0
-  m_Name: Crasherer
+  m_Name: CrashCauseObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
